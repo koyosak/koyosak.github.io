@@ -141,7 +141,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%; /* Assuming you want the overlay to cover the entire width */
+    width: 100%; 
     height: 106.5%;
     background-color: rgba(0, 0, 0, 0.5); 
 }
